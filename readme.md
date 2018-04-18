@@ -2,6 +2,6 @@
 
 This is a Link shortner built based on Meteor and React.
 
-##Author:
+## Author:
 
 Raam Noble
